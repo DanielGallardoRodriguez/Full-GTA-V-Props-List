@@ -1,1 +1,207 @@
+# 🔹 NORMATIVA ILEGAL NIMBO RP v2
+
+---
+
+## 📘 GENERAL PARA ILEGALES
+
+- Máximo **3 civiles** en actos ilegales.  
+- Prohibido usar prendas o animaciones que den ventaja en tiroteos.  
+- Se permite vestir cualquier color, pero **no prendas identificativas de bandas** (bandanas, pañuelos, chupas de motero).  
+- Prohibido aprovecharse de **bugs** (ghost-pick, rolas-bug, speed-boost).  
+- Prohibido actos delictivos **15 minutos antes y después del reinicio del servidor**.  
+- Prohibido usar la **tecla Q** en roles agresivos.  
+- Obligatorio estar en **permamute en Discord** durante el rol IC.  
+- Descubrir IC **no significa usar "alt"** para buscar cajas fuertes o sitios robables (eso es MG). Significa buscarse la vida, preguntar, investigar e interactuar con otros.  
+- Obligatorio usar correctamente el comando **/pid** antes de realizar cualquier robo a partir de **clase C**.  
+- Obligatorio tirar un **/entorno** al entrar en un garaje de robo de importación.  
+- Obligatorio tirar un **/entorno correspondiente** antes de empezar a robar ruedas.  
+
+---
+
+## 📙 BANDAS
+
+- Los roles ilegales deben **grabarse y almacenarse durante 5 días**.  
+- **Sistema de sanciones:**  
+  - 5 leves = 1 grave  
+  - 3 graves = disband  
+- Prohibido obligar a sacar dinero del banco.  
+- Prohibido atracar en menús de interacción.  
+- Secuestros: máximo **30 minutos**, salvo acuerdo por mensaje.  
+- Todas las bandas que tengan **menú F10 (territorios/droga)** deben, al referirse a los territorios conquistados, hacerlo **mediante mensajeros**.  
+
+---
+
+## 📊 ROBOS DISPONIBLES POR NIVEL DE BANDA
+
+### PDB
+
+| Robo | Éxito | Fallo |
+|------|--------|--------|
+| 👕 Tiendas de ropa | +3 pts | −2 pts |
+| 🛍️ Badulaques | +4 pts | −3 pts |
+| 🏧 ATM (cada 3 realizados) | +2 pts | −1 pts |
+| ⚰️ Tumbas (cada 5 realizadas) | +2 pts | −4 pts |
+
+### Banda Nivel 1
+
+| Robo | Éxito | Fallo |
+|------|--------|--------|
+| 🔫 Ammu-Nation | +6 pts | −4 pts |
+| 💸 Fleeca | +10 pts | −6 pts |
+| 💎 Joyería | +8 pts | −6 pts |
+
+### Banda Nivel 2
+
+| Robo | Éxito | Fallo |
+|------|--------|--------|
+| 🛥️ Yates | +10 pts | −5 pts |
+| 💷 Banco Paleto | +15 pts | −10 pts |
+| 🏦 Banco Central | +20 pts | −15 pts |
+
+---
+
+## 🏷️ CLASES, LUGARES Y RIESGO
+
+| Clase | Ejemplos de lugares | Nivel de riesgo / recompensa |
+|--------|----------------------|------------------------------|
+| 🌿 Clase D | Madera, Droga, Tumbas, Plantación | Beneficio bajo · Riesgo mínimo |
+| 🏙️ Clase C | Badulaques, Tiendas de ropa, ATM | Beneficio medio-bajo · Espera de 15 min si no llega la policía |
+| 💥 Clase B | Ammu-Nations, Joyería | Beneficio medio-alto · Riesgo considerable |
+| 🏦 Clase A | Fleeca (bancos pequeños) | Alta coordinación · Recompensa notable · Riesgo alto |
+| 🛥️ Clase S | Yate, Objetivos de lujo | Gran botín · Dificultad extrema · Planificación precisa |
+| 👑 Clase S+ | Banco Paleto, Banco Central | Máxima recompensa · Riesgo total · Equipo completo requerido |
+
+---
+
+## 👥 TAMAÑO DE BANDAS
+
+| Tipo de Banda | Integrantes | Outsiders |
+|----------------|--------------|------------|
+| PDB | 3–6 | +3 |
+| Oficial | Hasta 7 | +6 |
+| Nivel 2 | Hasta 8 | +8 |
+| Nivel 3 | Hasta 10 | +10 |
+
+---
+
+## 📘 ROBOS
+
+| Clase | Miembros | Rehenes | Características |
+|--------|------------|-----------|----------------|
+| D | — | — | Sin negociación, huida inmediata |
+| C | Máx. 3 | Hasta 2 | Sin bloqueos |
+| B | Máx. 4 | Hasta 6 | — |
+| A | Máx. 6 | Hasta 8 | — |
+| S | Máx. 8 | — | Tiroteo total, 2 tiradores |
+| S+ | Máx. 8 | — | CK obligatorio si son abatidos o encarcelados |
+
+---
+
+## 📅 ROBOS MÁXIMOS SEMANALES POR BANDA
+
+| Banda | Clase C | Clase B | Clase A | Clase S | Clase S+ |
+|--------|----------|----------|----------|----------|----------|
+| PDB | N | 0 | 0 | 0 | 0 |
+| Banda Nivel 1 | P | 5 | 0 | 0 | 0 |
+| Banda Nivel 2 | P | N | 5 | 1 | 0 |
+
+**Notas:**  
+- P = Sin límite  
+- N = Máximo 3 al día  
+
+---
+
+## 🌿 DROGAS
+
+- Prohibido plantar en interiores, barrios o ciudad.  
+- Permitido plantar en **zonas verdes alejadas**.  
+- Prohibido vender varias veces al mismo NPC, bajar NPCs, vender encima de vehículos, a animales o a la previsualización del menú de animaciones (**permaban**).  
+
+---
+
+## 🚗 VEHÍCULOS EN ROLES ILEGALES
+
+- Se puede disparar desde vehículos, **excepto el conductor** (solo si está detenido).  
+- Obligatorio enviar **/entorno** y **/forzar** en robos.  
+- Si hay persecución policial, no se puede entregar el vehículo hasta que termine.  
+- Un vehículo queda inutilizable si se pinchan **el 50 % de sus ruedas**.  
+- Obligatorio enviar **/entorno al hacer un robo de ruedas**.  
+
+---
+
+## ⚔️ ESCALADA DE CONFLICTOS
+
+- Se debe intentar **negociación** antes del conflicto.  
+- A partir del **tercer conflicto armado**, la administración puede aplicar **CK a un miembro (no líder)**.  
+- Más de 3 tiroteos = **guerra de bandas → CK masivo y disband** para la banda perdedora.  
+
+---
+
+## 💀 CK EN ROLES ILEGALES
+
+- Tipos de CK aplicables: **policía-ilegal, banda-banda, banda-civil**.  
+- El CK siempre requiere **aprobación administrativa**.  
+- En robos **Clase S+**, el CK es **obligatorio** si son abatidos o encarcelados.  
+
+---
+
+## 🕵️ CORRUPCIÓN
+
+- Permitida bajo **notificación y aprobación administrativa**.  
+- Incluye **corrupción policial y de bandas**.  
+- No se permite corrupción sin un **rol previo y coherente**.  
+
+---
+
+## 🆕 📘 GLOSARIO DE TÉRMINOS
+
+| Término | Significado |
+|----------|-------------|
+| IC | In Character (dentro del rol). |
+| OOC | Out of Character (fuera del rol). |
+| CK | Character Kill: muerte definitiva del personaje. |
+| MG | Metagaming: usar información OOC en IC. |
+| PDB | Banda en formación o de bajo nivel. |
+| Permamute | Estar silenciado en Discord durante rol IC. |
+| /pid | Comando para comprobar identidad del jugador antes de robo. |
+| /entorno | Comando para avisar de presencia o hechos IC. |
+
+---
+
+## 🆕 📹 REGLAS DE GRABACIÓN Y PRUEBAS
+
+- Todos los roles ilegales deben grabarse y conservarse durante **5 días**.  
+- Las grabaciones deben tener:  
+  - **Audio y video claros**.  
+  - Mostrar **inicio y final del rol**.  
+  - Guardarse por fecha y nombre de banda.  
+- La administración puede solicitar pruebas en cualquier momento.  
+- No tener grabación en caso de denuncia = **falta grave**.  
+
+---
+
+## 🆕 ⚖️ TABLA DE SANCIONES
+
+| Tipo de falta | Ejemplo | Consecuencia |
+|----------------|----------|---------------|
+| Leve | No usar /pid, error menor en entorno | Advertencia o sanción IC |
+| Grave | No grabar rol, abuso de mecánica | Sanción administrativa + puntos de banda |
+| Muy grave | Exploit, corrupción sin rol, metagaming | CK, disband o permaban |
+
+---
+
+## 🆕 👑 RESPONSABILIDADES DE LÍDERES DE BANDA
+
+- Controlar **grabaciones y cumplimiento de normas**.  
+- Resolver conflictos internos antes de acudir a administración.  
+- Informar de **nuevos miembros o expulsiones**.  
+- Garantizar que los outsiders conozcan las normas.  
+
+---
+
+## 🆕 📘 CONTACTO ADMINISTRATIVO
+
+- Canal oficial: **#soporte-ilegal (Discord Nimbo RP)**  
+- Solo **líderes o co-líderes** pueden contactar por CK o sanciones.  
+- En caso urgente, usar **/report** o abrir ticket.  
 
